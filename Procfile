@@ -1,0 +1,1 @@
+web: streamlit run app.py --strip_sources=True

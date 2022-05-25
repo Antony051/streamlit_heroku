@@ -1,0 +1,6 @@
+python==3.9.12
+geopandas==0.10.2
+streamlit==1.9.0
+earthengine-api==0.1.310
+leafmap==0.9.2
+geemap==0.13.6
